@@ -1,0 +1,12 @@
+C:\study\С#\MatrixOverload\MatrixOverload\bin\Debug\MatrixOverload.exe
+C:\study\С#\MatrixOverload\MatrixOverload\bin\Debug\MatrixOverload.pdb
+C:\study\С#\MatrixOverload\MatrixOverload\obj\Debug\MatrixOverload.csprojResolveAssemblyReference.cache
+C:\study\С#\MatrixOverload\MatrixOverload\obj\Debug\MatrixOverload.csproj.CoreCompileInputs.cache
+C:\study\С#\MatrixOverload\MatrixOverload\obj\Debug\MatrixOverload.exe
+C:\study\С#\MatrixOverload\MatrixOverload\obj\Debug\MatrixOverload.pdb
+C:\study\StudyByMySelf\Git_Hub\Matrix_0.0.0\MatrixOverload\bin\Debug\MatrixOverload.exe
+C:\study\StudyByMySelf\Git_Hub\Matrix_0.0.0\MatrixOverload\bin\Debug\MatrixOverload.pdb
+C:\study\StudyByMySelf\Git_Hub\Matrix_0.0.0\MatrixOverload\obj\Debug\MatrixOverload.csprojResolveAssemblyReference.cache
+C:\study\StudyByMySelf\Git_Hub\Matrix_0.0.0\MatrixOverload\obj\Debug\MatrixOverload.csproj.CoreCompileInputs.cache
+C:\study\StudyByMySelf\Git_Hub\Matrix_0.0.0\MatrixOverload\obj\Debug\MatrixOverload.exe
+C:\study\StudyByMySelf\Git_Hub\Matrix_0.0.0\MatrixOverload\obj\Debug\MatrixOverload.pdb
